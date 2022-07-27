@@ -3,7 +3,7 @@
 ## Innovaccion Virtual (VII Edición) #IAWizards
 
 ### Semana 2 - Sesión 4
-En esta práctica se creó una máquina virtual en la nube de Azure.
+En esta práctica se crearon dos máquinas virtuales en la nube de Azure para posteriormente ejecutarlas y conectarlas entre sí.
 
 -----------------------------------------------------------
 
